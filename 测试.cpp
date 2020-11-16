@@ -2,6 +2,7 @@
 #include<iostream>
 #include<cstring>
 #include<string>
+#include<list>
 #include<map> 
 #include<vector>
 using namespace std;
